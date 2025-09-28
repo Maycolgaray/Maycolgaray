@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://www.shutterstock.com/shutterstock/videos/3592539909/thumb/8.jpg?ip=x480"  />
+  <img height="350" width="1400" src="https://www.shutterstock.com/shutterstock/videos/3592539909/thumb/8.jpg?ip=x480"  />
 </div>
 
 ###
@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">Soy un desarrollador en formación apasionado por la tecnología y el desarrollo de software. Actualmente estoy enfocándome en construir una base sólida como Full-Stack Developer, aprendiendo y practicando con tecnologías como:<br><br>⚡ Frontend: JavaScript (React, Angular), HTML, CSS.<br>⚡ Backend: Java (Spring Boot), PHP (Laravel).<br>⚡ Móvil: Flutter.<br>⚡ DevOps & Herramientas: Docker, Git/GitHub.<br><br>📌 Mis metas a corto plazo son:<br>🎯Afianzar mis conocimientos en el stack que estoy aprendiendo.<br>🧩Crear proyectos prácticos y reales para mi portafolio.<br><br>🌱 A largo plazo quiero especializarme en el desarrollo de software de alto nivel, aplicando buenas prácticas, escalabilidad y metodologías ágiles.<br><br>💡 Me gusta el aprendizaje constante, los retos que me obligan a pensar diferente y la idea de construir soluciones que realmente impacten a las personas.</p>
+<p align="left">Soy un desarrollador en formación apasionado por la tecnología y el desarrollo de software. Actualmente estoy enfocándome en construir una base sólida como Full-Stack Developer, aprendiendo y practicando con tecnologías como:<br><br>⚡ Frontend: JavaScript, React, HTML, CSS.<br>⚡ Backend: Java (Spring Boot), PHP (Laravel).<br>⚡ Móvil: Flutter.<br>⚡ DevOps & Herramientas: Docker, Git/GitHub.<br><br>📌 Mis metas a corto plazo son:<br>🎯Afianzar mis conocimientos en el stack que estoy aprendiendo.<br>🧩Crear proyectos prácticos y reales para mi portafolio.<br><br>🌱 A largo plazo quiero especializarme en el desarrollo de software de alto nivel, aplicando buenas prácticas, escalabilidad y metodologías ágiles.<br><br>💡 Me gusta el aprendizaje constante, los retos que me obligan a pensar diferente y la idea de construir soluciones que realmente impacten a las personas.</p>
 
 ###
 
